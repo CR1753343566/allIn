@@ -1,9 +1,9 @@
 # Java异常
 
-[异常](#throwable)
-[异常类继承体系](#extend)
-[运行时异常](#runtimeexception)
-[检查型异常](#checkexception)
+- [异常](#throwable)
+- [异常类继承体系](#extend)
+- [运行时异常](#runtimeexception)
+- [检查型异常](#checkexception)
 
 
 ## <span id='throwable'>异常</span>
